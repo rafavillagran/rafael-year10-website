@@ -1,13 +1,9 @@
-
 body{
-    background: #8a8080;
+    background: orange;
 }
 
 p{
     color: black;
-    display: flex;
-    align-content: center;
-    justify-content: center;
 }
 
 h1{
@@ -20,6 +16,6 @@ h1{
 img {
     
     float: right;
-    width: 350px;
-    margin: 10px;
+    width: auto;
+    margin: auto;
 }  
